@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+*.wav
+*.bak
+*.before-*
+patch_*.py
+credentials.json
+*token*
+.env
